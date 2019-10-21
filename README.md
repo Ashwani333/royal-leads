@@ -17,8 +17,6 @@ To find coefficient of discharge through Venturimeter tube
 <b> Email id|     <b> siddharth.kosti@gmail.com
 <b> Department |Mechanical Engineering
 <b>Name of Developer | <b>Aditya Dubey
-:--|:--|
-<b>Name of Developer | <b>Aditya Dubey
 <b>Name of Developer | <b>Ankit Kumar Singh
 <b>Name of Developer | <b>Gaurav Tiwari
 #### Contributors List
