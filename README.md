@@ -11,12 +11,16 @@
 <h5> About the Experiment : </h5>
 To find coefficient of discharge through Venturimeter tube
 
-<b>Name of Developer | <b> Siddharth Kosti
+<b>Faculty member | <b> Siddharth Kosti
 :--|:--|
 <b> Institute | <b>Rajkiya Engineering College,Banda
 <b> Email id|     <b> siddharth.kosti@gmail.com
 <b> Department |Mechanical Engineering
-
+<b>Name of Developer | <b>Aditya Dubey
+:--|:--|
+<b>Name of Developer | <b>Aditya Dubey
+<b>Name of Developer | <b>Ankit Kumar Singh
+<b>Name of Developer | <b>Gaurav Tiwari
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
